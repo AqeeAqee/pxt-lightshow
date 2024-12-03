@@ -1,5 +1,5 @@
 {
-    "name": "pxt-lightShow",
+    "name": "pxt-stripShow",
     "description": "",
     "dependencies": {
         "device": "*",
