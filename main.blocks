@@ -1,0 +1,5 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="^h(M~84#Mo@ULO(C=?tv">strip</variable></variables><comment id="yPN,lIqy,0fnR%p;nFS|" data="0" x="0" y="0" h="200" w="480">aqee, 241201
+send out Strip buf to data pin
+make for Pico(RP2040), for buildin 'Light' extentino doesn't work on Pico
+ref spiNeopixelSendBuffer() in pxt-common-packages\libs\core\light.cpp
+undone. color of pixels disorder</comment></xml>

@@ -1,0 +1,27 @@
+{
+    "name": "pxt-lightShow",
+    "description": "",
+    "dependencies": {
+        "device": "*",
+        "edge-connector": "*",
+        "light": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "test.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "1.12.57",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
